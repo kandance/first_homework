@@ -97,4 +97,8 @@ let item = [
   },
 ];
 
-// console.log(item);
+console.log(item);
+
+function objectPractice() {
+  console.log('practicing using git');
+}
