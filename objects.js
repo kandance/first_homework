@@ -48,3 +48,7 @@ function getFavoriteFoods(person) {
 }
 
 getFavoriteFoods(nestedPerson);
+
+function coolStuff() {
+  console.log('cool stuff');
+}
